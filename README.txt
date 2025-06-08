@@ -1,1 +1,13 @@
-This project is a machine learning-based Email Spam Detector that classifies emails as spam or not using algorithms like Naive Bayes. It is built with Python and scikit-learn, showcasing effective text preprocessing, feature extraction, and model training techniques.
+Full Email Spam Detection SystemAdd commentMore actions
+
+Includes:
+- Random Forest model
+- Gmail API integration for real-time scanning
+- UI interface (Streamlit)
+- SHAP explainability
+- Sender reputation scoring
+
+Setup Instructions:
+1. Replace 'credentials.json' with your Gmail API credentials.
+2. Run `train_rf_model.py` to train the model.
+3. Run `index.py` for the web interface or `gmail_integration.py` for real-time Gmail scanning.
