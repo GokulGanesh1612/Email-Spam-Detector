@@ -1,4 +1,4 @@
-Full Email Spam Detection SystemAdd commentMore actions
+**Email Spam Detection**
 
 Includes:
 - Random Forest model
@@ -6,8 +6,3 @@ Includes:
 - UI interface (Streamlit)
 - SHAP explainability
 - Sender reputation scoring
-
-Setup Instructions:
-1. Replace 'credentials.json' with your Gmail API credentials.
-2. Run `train_rf_model.py` to train the model.
-3. Run `index.py` for the web interface or `gmail_integration.py` for real-time Gmail scanning.
