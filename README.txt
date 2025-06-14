@@ -1,8 +1,2 @@
-#Email-Spam-Detection
-
-Includes:
-- Random Forest model
-- Gmail API integration for real-time scanning
-- UI interface (Streamlit)
-- SHAP explainability
-- Sender reputation scoring
+Email Spam Detector
+Real-Time Spam Detection with Random Forest, Gmail API, Streamlit UI, SHAP Explainability, and Sender Reputation Scoring
