@@ -1,4 +1,4 @@
-# Email Spam Detector 
+Email Spam Detector 
 
 Includes:
 - Random Forest model
